@@ -5,6 +5,7 @@ public class Employ {
 	
 	public void test() {
 		this.mm=5;
+		int t=5;
 	}
 
 }
